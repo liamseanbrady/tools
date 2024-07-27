@@ -1,4 +1,4 @@
-# A home for usual tools
+# A home for useful tools
 
 Sometimes you need to create a simple or complex tool for a specific purpose that usually comes as a corollary of some other, often more specific, task. This is a home for such tools.
 
